@@ -1,0 +1,11 @@
+body{
+	background-image:url('assets/omfgdogs.gif');
+}
+a{position:fixed; bottom:5px; right:5px;
+font-family:"Impact", Charcoal, sans-serif;
+font-size:20px;}
+
+a:link{color:pink; background-color:black; }
+a:visited{color:gray; background-color:orange; }
+a:hover{color:black; background-color:pink; }
+a:active{color:orange; background-color:gray; }
